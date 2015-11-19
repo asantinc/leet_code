@@ -115,11 +115,3 @@ if __name__=='__main__':
     assert 10 == sol.lowestCommonAncestor(root, g, f).val
     assert 10 == sol.lowestCommonAncestor(root, g, b).val
     assert 5 == sol.lowestCommonAncestor(root, e, h).val
-
-
-
-
-
-
-
-
